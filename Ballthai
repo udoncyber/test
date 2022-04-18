@@ -6,6 +6,19 @@
 "stations"          :    
 [
 
+
+
+{
+"name"              :     "NKTV",
+"image"             :     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaxzn_hirj0v5RIV9l5X2jeGYrX5Rr3vhduw&usqp=CAU",
+"url"               :     "http://utv.googlestream.xyz:80/live/index.m3u8",
+"referer"           :     "",
+"userAgent"         :     "",
+"desktop"           :     "true",
+"playInNatPlayer"   :     "true"
+},
+
+
 {
 "name"              :     "ไทยลีก 1",
 "image"             :     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaxzn_hirj0v5RIV9l5X2jeGYrX5Rr3vhduw&usqp=CAU",
