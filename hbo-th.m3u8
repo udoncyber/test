@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NKTV" tvg-name="NK MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaxzn_hirj0v5RIV9l5X2jeGYrX5Rr3vhduw&usqp=CAU" group-title="NKTV",NK MOVIES
-
-
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1024000,RESOLUTION=1280x720,FRAME-RATE=30.000
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com
 http://stream.nktv.live:9898/live/nktv.stream/playlist.m3u8
