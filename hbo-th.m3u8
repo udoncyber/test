@@ -2,4 +2,4 @@
 #EXTINF:-1 tvg-id="NKTV" tvg-name="NK MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaxzn_hirj0v5RIV9l5X2jeGYrX5Rr3vhduw&usqp=CAU" group-title="NKTV",NK MOVIES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://wacth.tv/
-https://mediasv.online/dvr/3BB_HBO/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My84LzIwMjMgMTA6NDM6MjcgUE0maGFzaF92YWx1ZT1LOTVaQzR3ZGcrd1ZneHNwbTFEdGNBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTExJmlkPWNoXzE0MTA2
+http://stream.nktv.live:9898/live/nktv.stream/playlist.m3u8
