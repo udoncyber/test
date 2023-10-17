@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-0 group-title="Movies" tvg-id="hbosignature.th" tvg-logo="https://i.postimg.cc/rw9GnR69/hbos.png",3BB-HBO Signature
+#EXTINF:-1 tvg-chno="2" tvg-id="NBT2.th" tvg-name="NBT HD" tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-nbt.jpg" group-title="FREETV",NBT HD (3BBTV)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0db89bae851440a5994f5893ad480494:d88ef77eaedf4451a65be2e0bf6eabde
-https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/104/104.mpd
+#KODIPROP:inputstream.adaptive.license_key=ca20a93cf8e3421dafbd5bdb1990081b:86ae86a7391c481ea93eecdb740f0a14
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/2/2.mpd
