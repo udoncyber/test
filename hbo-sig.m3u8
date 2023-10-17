@@ -1,5 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-chno="7" tvg-id="TSports7.th" tvg-name="T Sports 7" tvg-logo="https://static.thaicom.io/chbig/big_262_20211117081017.png" group-title="FREETV",TSports7(3BBTV)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9c5735afb4fd402580360aed8364469c:128d55d9ac2b47ad85f86b5d08320179
-https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/103/103.mpd
