@@ -1,4 +1,4 @@
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9c5735afb4fd402580360aed8364469c:128d55d9ac2b47ad85f86b5d08320179
-#EXTINF:-1,3BB_HBOFHD
-https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/103/103.mpd
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0186/HLS/V0186.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=da3cb7de38a6faffcc19b25d3447265b&chunkHttps=true&tmid=B0001&tpbk=ngr4tqE362GlRZGO&rrt=1683890878&tmod=rfk&rsid=319648a8-65d4-46b7-b14f-1dd8d7854298&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=1071072db9fc74d4267cfa4d1f35a043&origin=anevia&tfa=f0-fc&tttl=1683977278
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
