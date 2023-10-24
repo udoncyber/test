@@ -1,6 +1,3 @@
- url-tvg="https://www.bevy.be/bevyfiles/thailand.xml,https://www.bevy.be/bevyfiles/thailandpremium.xml,https://www.bevy.be/bevyfiles/unitedkingdom.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedstatespremium4.xml,https://www.bevy.be/bevyfiles/georgia.xml,https://i.mjh.nz/PlutoTV/all.xml,https://www.bevy.be/bevyfiles/netherlandspremium.xml,https://raw.githubusercontent.com/Playidturl1/epgtv/main/tv.trueid.net.xml,https://raw.githubusercontent.com/Playidturl1/streams/master/epg/local/guide.xml, http://playidtvtv.42web.io/w3u/thailand.xml?i=2, https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml, https://raw.githubusercontent.com/Playidturl1/PLAYIDTV/master/thaiepg.xml.epg, "refresh="3600"
-"url=""
-
 #EXTINF:-1 " tvg-name="ทำเป็นไม่" tvg-logo="" group-title="UPDATE", Update 05:57
 https://2nud.short.gy/
 #EXTINF:-1 tvg-chno="2" tvg-id="NBT2.th" tvg-name="NBT HD" tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-nbt.jpg" group-title="ฟรีทีวี",NBT2
